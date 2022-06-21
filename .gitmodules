@@ -1,3 +1,3 @@
-[submodule "PFF-X7-M2-Uraven"]
-	path = PFF-X7-M2-Uraven
+[submodule "src/lib"]
+	path = src/lib
 	url = git@github.com:pingouin-nihiliste/PFF-X7-M2-Uraven.git
